@@ -1,0 +1,47 @@
+form
+{
+	width: 600px;
+	height: auto;
+	padding: 20px;
+	margin: 150px;
+	background: #7CFC00	;
+	border-radius: 15px;
+	
+}
+input {
+  border: 1px solid #E0E0E0;
+  color: #000000;
+  border-radius: 3px;
+  padding: 10px;
+  font-size: 14px;
+  width: 200px;
+  margin-top: 10px;
+  margin-bottom: 15px; 
+}
+
+input[type="submit"]
+{
+	border: 1px groove;
+	width: 140px;
+	background: #2788F2;
+	color: white;
+	padding: 8px 0;
+	outline: none;
+	border-radius: 8px;
+}
+input[type="button"]
+{
+	border: 1px groove;
+	width: 140px;
+	background: grey;
+	color: white;
+	padding: 8px 0;
+	outline: none;
+	border-radius: 8px;
+}
+ button {
+    background: #f2f6f8; /* Цвет фона */
+    border: 1px solid #7a7b7e; /* Параметры рамки */
+    width: 60px; /* Ширина кнопки */
+    height: 60px; /* Высота */
+    border-radius: 30px;
